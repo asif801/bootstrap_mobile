@@ -7,3 +7,11 @@
 .secondary-color{
     color: #9f1ae2;
 }
+.stop-writing{
+    background-image: url(../img/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 93vh;
+}
